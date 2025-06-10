@@ -10,7 +10,10 @@ Main Board includes:
 * AP61100
 * BQ25505
 * BQ24040
-<img width="480" alt="Screenshot 2025-06-09 at 11 50 11 PM" src="https://github.com/user-attachments/assets/4d7d1cd4-d7c4-43ec-a988-63734fc7c210" />
+* MicroSD card slot
+  
+<img width="480" alt="Screenshot 2025-06-10 at 2 24 29 PM" src="https://github.com/user-attachments/assets/63530276-a8fb-4d9c-a581-4a08e09561d7" />
+
 
 Secondary Board includes:
 * USB Type-C Port
