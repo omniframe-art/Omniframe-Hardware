@@ -2,7 +2,7 @@
 
 Omniframe is an open source e-paper digital frame. This repository includes the source and fabrication files for the main and secondary boards for driving the [13.3" Monochrome e-ink display](https://www.eink.com/product/detail/VB3300-NCB).
 
-<img width="633" alt="Screenshot 2025-06-09 at 11 45 55 PM" src="https://github.com/user-attachments/assets/83099d4b-ec0f-4cff-b91d-7ffaaf65e9dd" />
+<img width="633" alt="Screenshot 2025-06-12 at 5 02 29 PM" src="https://github.com/user-attachments/assets/05c5da04-90d1-4a51-9e70-42e49fc38262" />
 
 Main Board includes:
 * ESP32-S3 N8R2
